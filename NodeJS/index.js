@@ -10,7 +10,7 @@ const { stringify } = require('querystring');
 var con = mysql.createConnection({
     host: 'localhost',
     user: 'root',
-    password: 'gwapoako',
+    password: '',
     database: 'demonodejs'
 });
 
